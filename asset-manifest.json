@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58ba35b9.css",
+    "main.js": "/static/js/main.e13ff9e2.js",
+    "static/media/calculadora.png": "/static/media/calculadora.b84ac615d14ceb357ee0.png",
+    "static/media/hamburgueseria_krusty.png": "/static/media/hamburgueseria_krusty.0e988a744fb233e42adf.png",
+    "static/media/gherex.png": "/static/media/gherex.8e626cd215c61da9c715.png",
+    "static/media/movieland.png": "/static/media/movieland.61239968b7660256c6c1.png",
+    "static/media/profile-photo.png": "/static/media/profile-photo.b1edd2b1f37899354007.png",
+    "static/media/Gameplay-gift.mp4": "/static/media/Gameplay-gift.521f66a88e7e089980ea.mp4",
+    "static/media/ico-react.png": "/static/media/ico-react.fcd3595b0da71d981c4f.png",
+    "static/media/ico-sfml.png": "/static/media/ico-sfml.8c6cefc59f4022de9c8c.png",
+    "static/media/btn_day.png": "/static/media/btn_day.001874ee80bb6d2cd193.png",
+    "static/media/btn_night.png": "/static/media/btn_night.e3c40f2a561211d710b3.png",
+    "static/media/ico-html.png": "/static/media/ico-html.5fd78e250cfd0fecbbfa.png",
+    "static/media/ico-js.png": "/static/media/ico-js.3086f096ed07b3740ee2.png",
+    "static/media/ico-css.png": "/static/media/ico-css.000819b1a8b0fd7a3886.png",
+    "static/media/btn_en.png": "/static/media/btn_en.5ba3e6b058da415a8c74.png",
+    "static/media/btn_es.png": "/static/media/btn_es.c56e72f64599aab39b58.png",
+    "static/media/ico-c++.png": "/static/media/ico-c++.24a8f93854ab092f17a7.png",
+    "index.html": "/index.html",
+    "main.58ba35b9.css.map": "/static/css/main.58ba35b9.css.map",
+    "main.e13ff9e2.js.map": "/static/js/main.e13ff9e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ba35b9.css",
+    "static/js/main.e13ff9e2.js"
+  ]
+}
